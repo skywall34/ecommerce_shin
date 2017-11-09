@@ -16,8 +16,8 @@ include("functions_shin/functions.php");
   <div class="main_wrapper">
       <!--HEader starts here-->
       <div class="header_wrapper">
-        <img id="logo" src="imagesUdemy/logo.png">
-        <img id="banner" src="imagesUdemy/bitnami.png">
+        <img id="logo" src="images_shin/logo.png">
+        <img id="banner" src="images_shin/bitnami.png">
 
       </div>
       <!--HEader ends here-->

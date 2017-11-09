@@ -17,8 +17,8 @@ include("admin_area_udemy/includes/db_shin.php");
   <div class="main_wrapper">
       <!--HEader starts here-->
       <div class="header_wrapper">
-        <a href="index.php"><img id="logo" src="imagesUdemy/logo.png"></a>
-        <img id="banner" src="imagesUdemy/bitnami.png">
+        <a href="index.php"><img id="logo" src="images_shin/logo.png"></a>
+        <img id="banner" src="images_shin/bitnami.png">
 
       </div>
       <!--HEader ends here-->

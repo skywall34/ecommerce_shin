@@ -1,6 +1,6 @@
 <div>
 <?php
-include("includesUdemy/db_shin.php");
+include("includes_shin/db_shin.php");
 $total = 0; //initiate local value for result
 global $conn;
 $ip = getIp();

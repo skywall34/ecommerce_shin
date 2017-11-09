@@ -1,5 +1,5 @@
 <?php
-include("includesUdemy/db_shin.php");
+include("includes_shin/db_shin.php");
  ?>
 
 
