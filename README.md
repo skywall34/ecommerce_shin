@@ -23,6 +23,13 @@ The following is a ecommerce site that can has the following functions:
 3. Handle Products
 4. Hanlde Authorization using Login with Email
 
+What I used both for reference and development:
+- Udemy.com
+- Bitnami
+- Atom
+- MySQL
+
+
 **Paypal and online integration needed server hosting and was not really a feature I wanted so I left it out in the end.
 **Images were crawled from the Internet and are not to be used by any third party.
 ***Ideas and schema for site learned by Udemy Instrutor Abdul Wali
