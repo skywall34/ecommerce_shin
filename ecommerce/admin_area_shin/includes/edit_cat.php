@@ -1,5 +1,5 @@
 <?php
-include("dbUdemy.php");
+include("db_shin.php");
 
 if (isset($_GET['edit_cat'])) {
   $cat_id = $_GET['edit_cat'];

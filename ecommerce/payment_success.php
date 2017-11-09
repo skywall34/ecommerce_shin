@@ -9,8 +9,8 @@ session_start();
   </head>
   <body>
     <?php
-   include("includesUdemy/dbUdemy.php");
-   include("functionsUdemy/functions.php");
+   include("includesUdemy/db_shin.php");
+   include("functions_shin/functions.php");
 
    //this is all for product details
 

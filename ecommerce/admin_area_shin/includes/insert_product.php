@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <?php
-  include("includes/dbUdemy.php"); //db initializer
+  include("includes/db_shin.php"); //db initializer
   //add admin_area_udemy for other files outside of the admin path
   if (!isset($_SESSION['user_email'])) {
     echo "<script>window.open('login.php?not_admin=You are not an Admin!', '_self')</script>";

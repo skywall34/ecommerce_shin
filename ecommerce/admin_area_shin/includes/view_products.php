@@ -21,7 +21,7 @@ else {
   </tr>
 
   <?php
-    include("dbUdemy.php");
+    include("db_shin.php");
     $get_pro = "SELECT * FROM productsudemy";
     $run_pro = mysqli_query($conn, $get_pro);
 

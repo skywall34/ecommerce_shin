@@ -14,7 +14,7 @@ else {
 </form>
 
 <?php
-include("dbUdemy.php");
+include("db_shin.php");
 //adds the new category into the categoriesudemy database
 if (isset($_POST['add_brand'])) {
   $new_brand = $_POST['new_brand'];

@@ -21,7 +21,7 @@ else {
   </tr>
 
   <?php
-    include("dbUdemy.php");
+    include("db_shin.php");
     $get_customer = "SELECT * FROM customersudemy";
     $run_customer = mysqli_query($conn, $get_customer);
 

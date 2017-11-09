@@ -14,7 +14,7 @@
   </tr>
 
   <?php
-    include("dbUdemy.php");
+    include("db_shin.php");
 
     $get_payment = "SELECT * FROM paymentsudemy";
     $run_payment = mysqli_query($conn, $get_payment);

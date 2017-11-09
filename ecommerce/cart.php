@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <?php
 session_start(); //initialize session
-include("functionsUdemy/functions.php");
-include("admin_area_udemy/includes/dbUdemy.php");
+include("functions_shin/functions.php");
+include("admin_area_udemy/includes/db_shin.php");
  ?>
 <html>
   <head>
     <title>My Online Shop</title>
 
-    <link rel="stylesheet" href="/stylesUdemy/style.css" media="all">
+    <link rel="stylesheet" href="/styles_shin/style.css" media="all">
   </head>
 
 <body>

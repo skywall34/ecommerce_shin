@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <?php
 session_start(); //anything that uses $_SESSION needs this included
-include("functionsUdemy/functions.php");
-include("includesUdemy/dbUdemy.php");
+include("functions_shin/functions.php");
+include("includesUdemy/db_shin.php");
  ?>
 <html>
   <head>
     <title>My Online Shop</title>
 
-    <link rel="stylesheet" href="/stylesUdemy/style.css" media="all">
+    <link rel="stylesheet" href="/styles_shin/style.css" media="all">
   </head>
 
 <body>

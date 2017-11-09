@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <?php
-  include("dbUdemy.php"); //db initializer
+  include("db_shin.php"); //db initializer
   //add admin_area_udemy for other files outside of the admin path
   if (isset($_GET['edit_product'])) {
     $get_id = $_GET['edit_product'];

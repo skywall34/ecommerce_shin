@@ -18,7 +18,7 @@ else {
   </tr>
 
   <?php
-    include("dbUdemy.php");
+    include("db_shin.php");
     $get_brand = "SELECT * FROM brandsudemy";
     $run_brand = mysqli_query($conn, $get_brand);
 

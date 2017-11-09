@@ -92,7 +92,7 @@ session_start();
  ?>
 
  <?php
-   include("includes/dbUdemy.php");
+   include("includes/db_shin.php");
 
    if (isset($_GET['confirm_order'])) {
      $get_id = $_GET['confirm_order'];

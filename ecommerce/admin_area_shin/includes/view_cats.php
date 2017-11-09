@@ -19,7 +19,7 @@ else {
   </tr>
 
   <?php
-    include("dbUdemy.php");
+    include("db_shin.php");
     $get_cat = "SELECT * FROM categoriesudemy";
     $run_cat = mysqli_query($conn, $get_cat);
 

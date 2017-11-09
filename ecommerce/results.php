@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <?php
-include("functionsUdemy/functions.php");
+include("functions_shin/functions.php");
  ?>
 <html>
   <head>
     <title>My Online Shop</title>
 
-    <link rel="stylesheet" href="/stylesUdemy/style.css" media="all">
+    <link rel="stylesheet" href="/styles_shin/style.css" media="all">
   </head>
 
 <body>

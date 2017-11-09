@@ -14,7 +14,7 @@
   </tr>
 
   <?php
-    include("dbUdemy.php");
+    include("db_shin.php");
 
     //this is about the customer
     $user = $_SESSION['customer_email'];

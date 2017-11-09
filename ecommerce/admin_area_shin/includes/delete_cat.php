@@ -1,5 +1,5 @@
 <?php
-  include("dbUdemy.php");
+  include("db_shin.php");
 
   if (isset($_GET['delete_cat'])) {
 
